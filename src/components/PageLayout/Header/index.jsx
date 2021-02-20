@@ -51,11 +51,6 @@ export default () => {
                 Tags
               </Link>
             </li>
-            <li className={style.navItem}>
-              <Link to="/resume" onClick={toggleMenu} activeClassName={style.anchorActive}>
-                Resume
-              </Link>
-            </li>
           </ul>
         </div>
       </Layout>

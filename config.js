@@ -5,7 +5,7 @@ module.exports = {
   siteDescription: 'Logbook of a software developer',
   author: 'Rolwin Reevan',
   postsForArchivePage: 3,
-  defaultLanguage: 'en',
+  defaultLanguage: 'ja',
   disqusScript: process.env.DISQUS_SCRIPT || 'https://rolwinreevan.disqus.com/embed.js',
   pages: {
     home: '/',
@@ -15,10 +15,8 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
-    facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    github: 'https://github.com/JOKOJOKO405',
+    twitter: 'https://twitter.com/JOKOJOKO405',
     rss: '/rss.xml',
   },
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
